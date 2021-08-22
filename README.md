@@ -1,0 +1,1 @@
+Jogo 2d de zumbis, possui dois tipos de armas (AK-47 e Glock), essas armas são spawnadas aleatoriamente pelo mapa, vem sempre 5 zumbis por orda, o jogo possui um score e uma interface que mostra a vida do player.
